@@ -1,0 +1,1 @@
+Follow set of instructions for setup Git and GitHub agent
